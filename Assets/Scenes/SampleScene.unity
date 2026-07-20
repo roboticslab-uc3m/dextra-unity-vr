@@ -356,7 +356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   screen: {fileID: 1979769453}
-  topicName: /minoru/right/image_raw
+  topicName: /image_raw
   compressed: 1
   usingBGR: 1
 --- !u!114 &459482292
@@ -372,7 +372,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   screen: {fileID: 785397015}
-  topicName: /minoru/left/image_raw
+  topicName: /image_raw
   compressed: 1
   usingBGR: 1
 --- !u!1 &705507993
@@ -566,7 +566,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!20 &963194227
 Camera:
   m_ObjectHideFlags: 0
@@ -822,7 +822,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1780779982}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!20 &1780779984
 Camera:
   m_ObjectHideFlags: 0
